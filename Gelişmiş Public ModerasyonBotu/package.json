@@ -1,0 +1,11 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "df",
+  "main": "server.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "Anonim",
+  "license": "ISC"
+}
